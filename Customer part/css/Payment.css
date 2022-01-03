@@ -1,0 +1,48 @@
+body{
+  height: 100%;
+  /* background: radial-gradient(circle, rgba(255,255,255,1) 0%, rgba(0,0,0,1) 65%); */
+  background-image: url("https://cdn.wallpapersafari.com/39/27/ohLZNV.jpg"); 
+}	
+.pp{
+	padding:20px;
+	font-size:30px;
+	color:#D6C874;
+	font-family: Arial, sans-serif;
+}
+
+table{
+	margin-left:50px;
+	margin-right:auto;
+}
+.content{
+	background: linear-gradient(90deg, rgba(12,2,2,1) 85%, rgba(217,145,0,1) 100%);
+	color:#BCBCBC;
+	text-align:left;
+	font-size:19px;
+	font-style: italic;
+	
+}
+.ev{
+	background-color: #373736;
+	color: #F2D985;
+	font-family:Courier;
+	font-weight:bold;
+}
+.ev:nth-of-type(even){
+	background-color: #636363;
+	
+}
+.pay{
+	color:#A6FF99;
+	text-decoration:none;
+}
+.pay:hover{
+	color:#5DA61F;
+}
+.del{
+	color:#E7A1A1;
+	text-decoration:none;
+}
+.del:hover{
+	color:#8B0000;
+}
