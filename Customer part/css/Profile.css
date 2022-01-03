@@ -1,0 +1,177 @@
+body{
+	background-image:url('https://i.pinimg.com/originals/ad/d5/cf/add5cf700972feb36334ca691fadb06f.jpg');
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: right 85px;
+	height:100%;
+}
+.box{
+	border: 2px solid rgb(221, 164, 8);
+	text-align: center;
+	width:37%;
+	background-color:black;
+	height:200px;
+	padding:10px;
+	margin:auto;
+	margin-top:40px;
+}
+.box2{
+	border: 2px solid rgb(221, 164, 8);
+	text-align: center;
+	width:37%;
+	height:160px;
+	padding:10px;
+	background-color:black;
+	margin:auto;
+	margin-top:30px;
+	border-radius:3px;
+}
+
+.box2 input{
+	background-color: black;
+    border: 1px  groove #FFF18A;
+    color: #B6B6B6;
+}
+
+.save{
+	text-align:center;
+	margin-top:10px;
+}
+div img {
+  height: 100%;
+  width: 100%;
+  border-radius: 50%;
+}
+
+
+.profile{
+  width: 140px;
+  height: 140px;
+  border-radius: 50%;
+  border-style: solid;
+  border-color: #ffce6c;
+  box-shadow: 0 0 8px 3px #B8B8B8;
+  position: relative;
+  margin:auto;
+}
+.stext{
+	text-align:center;
+	margin-top:3px;
+	color:#FFFAFA;
+}
+.title1{
+	background: black;
+	color:#ffce6c;
+	margin:-12px;
+	padding:0px;
+}
+.info{
+	background: black;
+	color:#ffce6c;
+	text-align:center;
+	margin-top:10px;
+	line-height:3;
+}
+.pass{
+	color:#ffce6c;
+	margin-top:40px;
+	line-height:2.5;
+}
+label{
+	opacity:0.5;
+}
+.line{
+    background-color: transparent;
+    outline: none;
+    outline-style: none;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    border-bottom: solid #2F4F4F 1px;
+	color:#ffce6c;
+    padding: 3px 10px;
+	width:240px;
+	display:inline-block;
+}
+
+.line1{
+  background-color: transparent;
+  outline: none;
+  outline-style: none;
+  border-top: none;
+  border-left: none;
+  border-right: none;
+  border-bottom: solid #2F4F4F 1px;
+color:#ffce6c;
+  padding: 3px 10px;
+width:170px;
+display:inline-block;
+}
+
+.save input{
+	background-color: #373736;
+    border: 2px  outset #FFFF90;
+    color: #F2F7CC;
+}
+
+.save input:hover{
+	background-color: #636363;
+    border: 2px  outset #F3F0A8;
+    color: #E8F396;
+}
+
+.savepassbtn{
+	background-color: #373736;
+    border: 2px  outset #FFFF90;
+    color: #F2F7CC;
+}
+
+.savepassbtn:hover{
+	background-color: #636363;
+    border: 2px  outset #F3F0A8;
+    color: #E8F396;
+}
+
+
+.upload-btn-wrapper {
+    position: relative;
+    overflow: hidden;
+    display: inline-block;
+  }
+  
+  .btn {
+    border:1px solid #D9D8B3;
+    background-color: black;
+    color:#E5E4CA;
+    padding: 8px 20px;
+    border-radius: 8px;
+    font-size: 10px;
+    font-weight: bold;
+  }
+  
+  .upload-btn-wrapper input[type=file] {
+    font-size: 100px;
+    position: absolute;
+    left: 0;
+    top: 0;
+    opacity: 0;
+  }
+
+
+
+  .reload{
+    border:1px solid #D9D8B3;
+    background-color: black;
+    color:#E5E4CA;
+    padding: 8px 20px;
+    border-radius: 8px;
+    font-size: 10px;
+    font-weight: bold;
+  }
+
+
+  .reload:hover{
+    background-color: #636363;
+    border: 2px  outset #F3F0A8;
+    color: #E8F396;
+}

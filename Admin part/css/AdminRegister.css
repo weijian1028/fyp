@@ -1,0 +1,69 @@
+body{
+	background-image: url("https://cdn.wallpapersafari.com/39/27/ohLZNV.jpg");
+}
+
+
+.wrapper{ 
+    width: 550px; 
+    padding: 20px; 
+    height: 650px;
+}
+.wrapper h1{
+    color:#FBF9B2;
+}
+
+.wrapper label{
+    color:#E5E4CA;
+    margin:10px;
+}
+
+.wrapper input{
+    border:1px solid #D9D8B3;
+    background-color: black;
+    color:#E5E4CA;
+
+}
+
+.wrapper select{
+    border:1px solid #D9D8B3;
+    background-color: black;
+    color:#E5E4CA;
+
+}
+
+.upload-btn-wrapper {
+    position: relative;
+    overflow: hidden;
+    display: inline-block;
+  }
+  
+  .btn {
+    border:1px solid #D9D8B3;
+    background-color: black;
+    color:#E5E4CA;
+    padding: 8px 20px;
+    border-radius: 8px;
+    font-size: 20px;
+    font-weight: bold;
+  }
+  
+  .upload-btn-wrapper input[type=file] {
+    font-size: 100px;
+    position: absolute;
+    left: 0;
+    top: 0;
+    opacity: 0;
+  }
+
+.background_img img{
+    height: 950px;
+    position:absolute;
+    width:100%;
+    top:0px;
+    left:0px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    z-index: -999;
+}
+

@@ -1,0 +1,48 @@
+
+
+.wrapper{ 
+    width: 550px; 
+    padding: 20px; 
+    height: 650px;
+}
+.wrapper h1{
+    color:#FBF9B2;
+}
+
+.wrapper label{
+    color:#E5E4CA;
+}
+
+.wrapper input{
+    border:1px solid #D9D8B3;
+    background-color: black;
+    color:#E5E4CA;
+
+}
+
+.wrapper select{
+    border:1px solid #D9D8B3;
+    background-color: black;
+    color:#E5E4CA;
+
+}
+
+
+
+.background_img img{
+    height: 950px;
+    position:absolute;
+    width:100%;
+    top:0px;
+    left:0px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    z-index: -999;
+}
+
+#img_div img{
+    margin:10px;
+    height:200px;
+    width:200px;
+}

@@ -1,0 +1,84 @@
+body{
+	background-image:url('https://cdn.wallpapersafari.com/39/27/ohLZNV.jpg');
+}
+.invoice-box {
+    max-width: 650px;
+    margin: auto;
+    padding: 30px;
+	background:white;
+	height:auto;
+	margin-top:20px;
+	border: 1px solid #eee;
+	box-shadow: 0 0 10px rgba(0, 0, 0, .15);
+	font-size: 18px;
+	line-height: 24px;
+	font-family: Arial;
+	color: #555;
+}
+table{
+	margin-left:auto;
+	margin-right:auto;
+}
+.title{
+	color:#08185C;
+	position:relative;
+	bottom:15px;
+	font-weight:bold;
+}
+.title2{
+	text-align:center;
+	color:white;
+}
+.content{
+	background:#050442;
+	color:white;
+	text-align:center;
+	font-weight:bold;
+	
+}
+.ev{
+	background-color:#C0C0C1;
+	font-family:Courier;
+	font-weight:bold;
+	text-align:center;
+	
+}
+.ev:nth-of-type(even){
+	background-color:white;
+	
+}
+#show{
+	color:#078532;
+}
+.space{
+	position:relative;
+	top:10px;
+	text-align:right;
+}
+.inf{
+	padding:10px;
+	background-color: #373736;
+    border: 2px  outset #FFFF90;
+    color: #F2F7CC;
+	position:relative;
+	left:30%;
+	font-size:30px;
+	text-decoration:none;
+}
+.inf:hover{
+	color:#00FA9A;
+}
+.inff{
+	padding:10px;
+	background-color: #373736;
+    border: 2px  outset #FFFF90;
+    color: #F2F7CC;
+	position:relative;
+	left:60%;
+	font-size:30px;
+	text-decoration:none;
+}
+.inff:hover{
+	color:#FFD700 ;;
+	transition: all 0.3s ease 0s;
+}

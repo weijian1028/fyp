@@ -1,0 +1,80 @@
+body{
+	background-image: url("https://cdn.wallpapersafari.com/39/27/ohLZNV.jpg");
+}
+
+
+#designall{
+    padding:10px;
+}
+
+#designall h1,p{
+    color:#FBF9B2;
+    padding:10px;
+}
+
+#designall input,select{
+    margin:5px 30px;
+    padding:5px;
+    border:1px solid #D9D8B3;
+    background-color: black;
+    color:#E5E4CA;
+
+}
+
+#designall input:hover{
+    background-color: #636363;
+    border: 1px  solid #F3F0A8;
+    color: #E8F396;
+}
+
+#designall table{
+    outline-style: outset;
+    outline-color:#D9D8B3;
+}
+
+#designall td{
+    color:khaki;
+}
+
+#designall th{
+    background:black;
+	color:#ffce6c;
+	text-align:left;
+	font-size:19px;
+	font-style: italic;
+}
+
+#designall .editbtn{
+    color: #F2D985;
+}
+
+
+#designall .editbtn:hover{
+    color:#7ECE76;
+}
+
+#designall .delbtn{
+    color: #F2D985;
+}
+
+
+#designall .delbtn:hover{
+    color:red;
+}
+
+.curPage{
+    color: #E8F396;
+  }
+
+
+.ship {
+    position:absolute;
+    right:25%;
+    top:200px;
+    margin:5px 30px;
+    padding:5px;
+    border:1px solid #D9D8B3;
+    background-color: black;
+    color:#E5E4CA;
+    
+}

@@ -1,0 +1,29 @@
+.bg{
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: right 85px;
+	margin-top:-30px;
+	height:100%;
+	width:100%;
+}
+
+#box{     
+    width:370px;          
+    height:370px;          
+    position:absolute;
+    top:50%;
+    left:50%;
+    transform:translate(-50%,-50%);
+	padding:18px;
+	border:2px;
+	border-radius:0px;
+	background:rgba(0, 0, 0, 0.6);
+	margin-top:150px;
+	font-family:Arial;
+}
+#form{
+	text-align:center;
+	color:white;
+	margin-top:50px;
+	line-height:2.2;
+}
